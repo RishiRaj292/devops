@@ -1,4 +1,4 @@
 def greet():
-    print("file2: changed on main via GitHub")
+    print("file2: resolved - main + branch2")
 
 greet()
